@@ -1,0 +1,243 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background: rgb(19, 18, 18);
+}
+
+.container {
+    background:transparent;
+    margin: 6% 10% 20px 8%;
+    position: relative;
+    height: 520px;
+}
+
+.nav__1 {
+    display: flex;
+    border: 1px solid black;
+    padding: 30px;
+    justify-content: space-between;
+    background-color: rgb(34, 32, 145);
+    color: white;
+    font-weight: 500;
+ 
+}
+
+.nav__1-center a {
+    text-decoration: none;
+    padding:   20px ;
+    color: white;
+
+}
+
+.nav__1-center span{
+    margin: 10px;
+}
+.nav__1-rigth button {
+    padding: 10px;
+    background-color: rgb(149, 243, 212);
+    border-radius: 20px;
+    border: transparent;
+}
+
+.nav__1-rigth a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.nav__2 {
+    display: flex;
+    border: 1px solid transparent;
+    padding: 30px;
+    justify-content: space-between;
+    background-color: rgb(255, 253, 252);
+    color: rgb(6, 6, 110);
+    font-weight: 500;
+
+}
+
+.nav__2-center a {
+    text-decoration: none;
+    padding: 20px;
+    color: rgb(6, 6, 110);
+
+}
+ 
+
+.nav__2-rigth button {
+    padding: 10px;
+    background-color: rgb(149, 243, 212);
+    border-radius: 20px;
+    border: transparent;
+    margin: 5px;
+}
+
+.nav__2-rigth a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+#btn1 {
+    background: white;
+
+}
+
+#btn1 a {
+    color: rgb(6, 6, 110);
+}
+
+#btn2 {
+    background: rgb(28, 28, 227);
+    padding: 12px;
+    font-weight: 500;
+    padding: 10px 22px;
+}
+
+#btn2 a {
+    color: white;
+}
+
+.nav__3 {
+    display: flex;
+    border: 1px solid black;
+    padding: 30px;
+    justify-content: space-between;
+    background-color: rgb(34, 32, 145);
+    color: white;
+    font-weight: 500;
+
+}
+
+.nav__3-center a {
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+
+}
+
+.nav__3-rigth button {
+    padding: 10px;
+    border-radius: 20px;
+    border: transparent;
+}
+
+.nav__3-rigth a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+#btn1 {
+    background: white;
+
+}
+
+#btn3 {
+    background: rgb(28, 28, 227);
+    padding: 12px;
+    font-weight: 500;
+    padding: 10px 22px;
+    border: 1px solid white;
+}
+
+#btn4 {
+    background-color: rgb(149, 243, 212);
+    padding: 12px;
+    font-weight: 500;
+    padding: 10px 22px;
+}
+
+#btn2 a {
+    color: white;
+}
+.nav__4 {
+    display: flex;
+    border: 1px solid transparent;
+    padding: 30px;
+    justify-content: space-between;
+    background-color: rgb(255, 253, 252);
+    color: rgb(6, 6, 110);
+    font-weight: 500;
+
+}
+
+.nav__4-center a {
+    text-decoration: none;
+    padding: 20px;
+    color: rgb(6, 6, 110);
+
+}
+
+.nav__4-rigth button {
+    padding: 10px;
+    background-color: rgb(149, 243, 212);
+    border-radius: 20px;
+    border: transparent;
+   margin: 5px;
+}
+
+.nav__4-rigth a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+#btn5 {
+    background: white;
+
+}
+
+#btn5 a {
+    color: rgb(6, 6, 110);
+}
+
+#btn6 {
+    background:  transparent;
+    padding: 12px;
+    font-weight: 500;
+    padding: 10px 22px;
+    border: 1px solid   rgb(6, 6, 110);
+}
+
+#btn6 a {
+    color:  rgb(6, 6, 110);
+}
+.nav__5{
+    display: flex;
+    border: 1px solid black;
+    padding: 40px;
+    justify-content: space-between;
+    background-color: rgb(34, 32, 145);
+    color: white;
+    font-weight: 500;
+
+}
+
+.nav__5-center a {
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+
+}
+
+.nav__5-rigth button {
+    padding: 10px;
+    border-radius: 20px;
+    border: transparent;
+}
+
+.nav__5-rigth a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+.nav__5-center span{
+    margin: 15px;
+}
+
+ 
+
